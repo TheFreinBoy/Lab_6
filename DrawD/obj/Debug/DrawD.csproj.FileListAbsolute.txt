@@ -1,0 +1,10 @@
+C:\Users\tetie\OneDrive\Робочий стіл\5 lab\DrawA\DrawD\bin\Debug\DrawD.exe.config
+C:\Users\tetie\OneDrive\Робочий стіл\5 lab\DrawA\DrawD\bin\Debug\DrawD.exe
+C:\Users\tetie\OneDrive\Робочий стіл\5 lab\DrawA\DrawD\bin\Debug\DrawD.pdb
+C:\Users\tetie\OneDrive\Робочий стіл\5 lab\DrawA\DrawD\obj\Debug\DrawD.csproj.AssemblyReference.cache
+C:\Users\tetie\OneDrive\Робочий стіл\5 lab\DrawA\DrawD\obj\Debug\DrawD.Form4.resources
+C:\Users\tetie\OneDrive\Робочий стіл\5 lab\DrawA\DrawD\obj\Debug\DrawD.Properties.Resources.resources
+C:\Users\tetie\OneDrive\Робочий стіл\5 lab\DrawA\DrawD\obj\Debug\DrawD.csproj.GenerateResource.cache
+C:\Users\tetie\OneDrive\Робочий стіл\5 lab\DrawA\DrawD\obj\Debug\DrawD.csproj.CoreCompileInputs.cache
+C:\Users\tetie\OneDrive\Робочий стіл\5 lab\DrawA\DrawD\obj\Debug\DrawD.exe
+C:\Users\tetie\OneDrive\Робочий стіл\5 lab\DrawA\DrawD\obj\Debug\DrawD.pdb
