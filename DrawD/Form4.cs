@@ -54,13 +54,13 @@ namespace DrawD
 
 
         }
-        private void Sticks(int centerX, int centerY, bool daun)
+        private void Sticks(int centerX, int centerY, bool k)
         {
             int stickWidth = 5;
             int stickHeight = 120;
             int cottonRadius = 10;
             // 1 палочка
-            if (daun)
+            if (k)
             {
                 g.FillRectangle(Brushes.OrangeRed, new Rectangle(centerX - stickHeight, centerY, stickHeight, stickWidth));
                 g.FillEllipse(Brushes.Red, new Rectangle(centerX - stickHeight - cottonRadius, centerY - cottonRadius + stickWidth / 2, cottonRadius * 2, cottonRadius * 2));
